@@ -7,7 +7,7 @@
 HTTP 錯誤 404.3 - Not Found
 因為網頁伺服器上設定的 MIME 對應原則，而無法提供您要求的網頁。
 
-![HTTP 錯誤 404.3]([/assets/img/philly-magic-garden.jpg](https://i.ibb.co/NntWZHr7/2025-06-04-161551.jpg) "HTTP 錯誤 404.3")
+![HTTP 錯誤 404.3](https://i.ibb.co/NntWZHr7/2025-06-04-161551.jpg "HTTP 錯誤 404.3")
 
 表示目前的 IIS 尚未支援該副檔名的 MIME 類型，需要手動新增設定。
 
@@ -82,3 +82,4 @@ HTTP 錯誤 404.3 - Not Found
 若要支援其他副檔名（例如 .json, .woff2, .mp4），也需個別設定 MIME 類型
 
 IIS 6 已停止支援，建議儘早升級至 IIS 10 以上版本以確保安全與相容性
+
